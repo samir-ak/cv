@@ -1,0 +1,65 @@
+body {
+  background-color:#EAF6F6;
+}
+
+h1 {
+  color: #ffd700;
+}
+h2 {
+  color: #696969;
+}
+h3 {
+  color: #66BFBF;
+}
+
+h4{
+  color: #0000cd;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+.ICAICMA {
+  color: #0000ff;
+  margin-bottom: 1rem;
+}
+.ICAICMA:hover {
+  color:#ff0000;
+}
+.ICAI{
+  color: #000000;
+}
+.ICAI:hover {
+  color:#d2691e;
+}
+.SAPC {
+  color: #0000ff;
+}
+.SAPC:hover {
+  color:#00ffff;
+}
+.GST:hover {
+  color:#ffd700;
+}
+.ITAX:hover {
+  color:#228b22;
+}
+.SAPCO{
+  color:#696969;
+}
+.SAPCO:hover{
+  color: #0000ff;
+}
+.INDEXP{
+
+}
+.CM{
+  color:#00008b;
+}
+.CM:hover{
+color:#ffd700;
+
+}
