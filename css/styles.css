@@ -22,22 +22,23 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
 .psummary {
   color: #191970;
   font-size: 1.2rem;
 }
 .ICAICMA {
-  color: #0000ff;
+  color: #ffa500;
   margin-bottom: 1rem;
 }
 .ICAICMA:hover {
   color:#ff0000;
 }
 .ICAI{
-  color: #000000;
+  color: #000080;
 }
 .ICAI:hover {
-  color:#d2691e;
+  color:#8b4513;
 }
 .SAPC {
   color: #0000ff;
@@ -53,7 +54,7 @@ right: auto;
   color:#ffd700;
 }
 .ITAX{
-  right: auto;
+  color:#ff0000;
 }
 .ITAX:hover {
   color:#228b22;
@@ -65,25 +66,29 @@ right: auto;
   color: #0000ff;
 }
 .INDEXP{
-
+  color:#696969;
 }
 .CM{
   color:#00008b;
   font-size: 1.2rem;
 }
 .CM:hover{
-color:#8b008b;
-
+color:#ffa500;
 }
 .container-fluid{
-padding: 1% 5% 1% 0%;
-margin:1% 10% 1% 1%;
-font-size: 1rem;
+padding: 1% 1% 1% 0%;
+margin:1% 1% 1% 1%;
+font-size: 1.1rem;
 text-align:justify;
 }
 .Hobbies {
   font-size:1.2rem;
-  color:#b8860b;
+  color:#000080;
+}
+.Hobbies:hover {
+  font-size:1.2rem;
+
+  color:#8b008b;
 }
 .CD{
 font-size:1.3rem;
