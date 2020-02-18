@@ -76,7 +76,7 @@ right: auto;
 color:#ffa500;
 }
 .container-fluid{
-padding: 1% 1% 1% 0%;
+padding: 1% 1% 1% ;
 margin:1% 1% 1% 1%;
 font-size: 1.1rem;
 text-align:justify;
@@ -87,7 +87,6 @@ text-align:justify;
 }
 .Hobbies:hover {
   font-size:1.2rem;
-
   color:#8b008b;
 }
 .CD{
@@ -102,7 +101,7 @@ color:#b8860b;
 
 }
 table {
-  border: 1px light blue;
+  border: 1px blue;
 }
 
 td {
