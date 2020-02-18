@@ -41,13 +41,19 @@ hr {
 }
 .SAPC {
   color: #0000ff;
-
+right: auto;
 }
 .SAPC:hover {
   color:#00ffff;
 }
+.GST{
+right: auto;
+}
 .GST:hover {
   color:#ffd700;
+}
+.ITAX{
+  right: auto;
 }
 .ITAX:hover {
   color:#228b22;
