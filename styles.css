@@ -53,13 +53,23 @@ hr {
 .SAPCO:hover{
   color: #0000ff;
 }
-.INDEXP{
 
+.INDEXP{
 }
+
 .CM{
-  color:#00008b;  
+  color:#00008b;
 }
+
 .CM:hover{
 color:#ffd700;
+}
 
+.lcontainer {
+ paddding: 10% 10% 30% 20%;
+  margin:1% 20% 1% 1%;
+  font-size: 1.1rem;
+  text-align:left;
+  display: grid;
+  grid-template-columns: 1fr 4fr;
 }
