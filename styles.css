@@ -22,27 +22,39 @@ hr {
   border-width: 5px;
   width: 5%;
 }
+
+.psummary {
+  color: #191970;
+  font-size: 1.2rem;
+}
 .ICAICMA {
-  color: #0000ff;
+  color: #ffa500;
   margin-bottom: 1rem;
 }
 .ICAICMA:hover {
   color:#ff0000;
 }
 .ICAI{
-  color: #000000;
+  color: #000080;
 }
 .ICAI:hover {
-  color:#d2691e;
+  color:#8b4513;
 }
 .SAPC {
   color: #0000ff;
+right: auto;
 }
 .SAPC:hover {
   color:#00ffff;
 }
+.GST{
+right: auto;
+}
 .GST:hover {
   color:#ffd700;
+}
+.ITAX{
+  color:#ff0000;
 }
 .ITAX:hover {
   color:#228b22;
@@ -53,18 +65,49 @@ hr {
 .SAPCO:hover{
   color: #0000ff;
 }
-
 .INDEXP{
+  color:#696969;
 }
-
 .CM{
   color:#00008b;
+  font-size: 1.2rem;
 }
-
 .CM:hover{
-color:#ffd700;
+color:#ffa500;
+}
+.container-fluid{
+padding: 1% 1% 1% ;
+margin:1% 1% 1% 1%;
+font-size: 1.1rem;
+text-align:justify;
+}
+.Hobbies {
+  font-size:1.2rem;
+  color:#000080;
+}
+.Hobbies:hover {
+  font-size:1.2rem;
+  color:#8b008b;
+}
+.CD{
+font-size:1.3rem;
+color:#b8860b;
+
+}
+.CD1{
+  font-size:1.3rem;
+  color:#000000;
+}
+table {
+  border: 1px blue;
 }
 
+td {
+  border: 1px ;
+}
+.top{
+  color:#000000;
+}
 .lcontainer {
  paddding: 10% 10% 30% 20%;
   margin:1% 20% 1% 1%;
