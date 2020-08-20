@@ -116,3 +116,7 @@ td {
   display: grid;
   grid-template-columns: 1fr 4fr;
 }
+.ssakal {
+  margin-left: 925px;
+  text-align:right;
+}
